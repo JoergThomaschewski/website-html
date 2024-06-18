@@ -7,8 +7,8 @@ Gliederung
 [2.3 Erstes Login auf dem Linux-Server](2.3_Erstes_Login_auf_dem_Linux-Server.md)<br>
 [2.4 Erste Schritte im Dateisystem](2.4_Erste_Schritte_im_Dateisystem.md)<br>
 [2.5 Linux-Befehle](2.5_Linux_Befehle.md)<br>
-[2.6 Dateisysteme und Linux](2.6_Dateisysteme_und_Linux.md)<br>
-[2.8 Bash](2.8_Bash.md)<br>
+[2.6 Bash](2.6_Bash.md)<br>
+[2.7 Dateisysteme und Linux](2.7_Dateisysteme_und_Linux.md)<br>
 [2.8 Selbsttest zu Linux](2.8_Selbsttest_zu_Linux.md)
 
 
