@@ -1,0 +1,198 @@
+### Gernelles
+# venv aktivieren!
+# cmd
+# cd website-mkdocs
+# .\venv\Scripts\activate.bat
+# code .
+site_url: https://html.thomaschewski.de/
+
+### Mkdocs
+# https://squidfunk.github.io/mkdocs-material/reference/ 
+
+### Link zur mkdocs.yml
+# https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml#L135C3-L138C1
+# https://github.com/james-willett/mkdocs-material-youtube-tutorial/blob/main/mkdocs.yml  (aus dem Video)
+# https://squidfunk.github.io/mkdocs-material/getting-started/
+
+### Blogging-Plugin schon installiert
+# https://liang2kl.github.io/mkdocs-blogging-plugin/ 
+# https://github.com/liang2kl/mkdocs-blogging-plugin
+
+### VG WORT
+# https://www.selbstaendig-im-netz.de/einnahmequellen/vg-wort-meldung-deadline-infos-zu-den-zaehlpixeln-geschaetze-einnahmen/
+# <img style="display:none;" src="https://vg(123).met.vgwort.de/na/eine-lange-Reihe-von-Buchstaben-und-Ziffern" width="1" height="1" alt="">
+
+
+site_name: Jörg Thomaschewski - Internet-Grundlagen
+
+nav:
+  - Home: index.md
+  - '1. Die Geschichte des Internets':
+      - 'Übersicht': '1Internet/index.md'
+  - '2. Linux': 
+      - 'Übersicht': '2Linux/index.md'
+      - '2.1 Die Geschichte von Linux': '2Linux/2.1_Die_Geschichte_von_Linux.md'
+      - '2.2 Wichtige Linux-Konzepte': '2Linux/2.2_Wichtige_Linux-Konzepte.md'
+      - '2.3 Erstes Login auf dem Linux-Server': '2Linux/2.3_Erstes_Login_auf_dem_Linux-Server.md'
+      - '2.4 Erste Schritte im Dateisystem': '2Linux/2.4_Erste_Schritte_im_Dateisystem.md'
+      - '2.5 Linux-Befehle': '2Linux/2.5_Linux_Befehle'
+      - '2.5.1 Paketverwaltung': '2Linux/2.5.1_Paketverwaltung.md'
+      - '2.5.2 Dateisystembefehle und Operatoren': '2Linux/2.5.2_Dateisystembefehle_und_Operatoren.md'
+      - '2.5.3 Text- und Dateibearbeitung': '2Linux/2.5.3_Text-_und_Dateibearbeitung.md'
+      - '2.5.4 Systemverwaltung': '2Linux/2.5.4_Systemverwaltung.md'
+      - '2.5.5 Finden und Ersetzen': '2Linux/2.5.5_Finden_und_Ersetzen.md'
+      - '2.5.6 Rechte ändern': '2Linux/2.5.6_Rechte_aendern.md'
+      - '2.5.7 Systeminformationen': '2Linux/2.5.7_Systeminformationen.md'
+      - '2.5.8 Prozessmanagement': '2Linux/2.5.8_Prozessmanagement.md'
+      - '2.5.9 Archivierungs- und Komprimierungsbefehle': '2Linux/2.5.9_Archivierungs-_und_Komprimierungsbefehle.md'
+      - '2.5.10 Netzwerkbefehle': '2Linux/2.5.10_Netzwerkbefehle.md'
+      - '2.6 Dateisysteme und Linux': '2Linux/2.6_Dateisysteme_und_Linux.md'
+      - '2.7 Bash': '2Linux/2.8_Bash.md'
+      - '2.8 Selbsttest zu Linux': '2Linux/2.78_Selbsttest_zu_Linux.md'
+  - '3. Medien-Netzwerke': 
+      - 'Übersicht': '3Netze/index.md'
+  - '4. HTML': 
+      - 'Übersicht': '4Html/index.md'
+      - '4.1 HTML-Grundlagen und Metadaten': '4Html/4.1_HTML_Grundlagen_und_Metadaten.md'
+      - '4.1.1 Sinn und Zweck von HTML': '4Html/4.1.1_Sinn_und_Zweck_von_HTML.md'
+      - '4.1.2 Entstehung von HTML und W3C': '4Html/4.1.2_Entstehung_von_HTML_und_W3C.md'
+      - '4.1.3 Einführung in die HTML-Syntax': '4Html/4.1.3_Einfuehrung_in_die_HTML_Syntax.md'
+      - '4.1.4 Elemente im HTML-Header': '4Html/4.1.4_Elemente_im_HTML_Header.md'
+      - '4.1.5 Attribute zum Header-Element meta': '4Html/4.1.5_Attribute_zum_Header_Element_meta.md'
+      - '4.1.6 Selbsttest zu HTML-Grundlagen und Metadaten': '4Html/4.1.6_Selbsttest_zu_HTML_Grundlagen_und_Metadaten.md'
+      - '4.1.7 Wissen anwenden: HTML-Metadaten': '4Html/4.1.7_Wissen_anwenden_HTML_Metadaten.md'
+      - '4.2 Ein HTML-Dokument erstellen': '4Html/4.2_Ein_HTML_Dokument_erstellen.md'
+      - '4.3 HTML-Formulare': '4Html/4.3_HTML_Formulare.md'
+      - '4.4 HTML Hinweise und Tipps': '4Html/4.4_HTML_Hinweise_und_Tipps.md'
+      - '4.5 Zusammenfassung Kapitel HTML': '4Html/4.5_Zusammenfassung_Kapitel_HTML.md'
+
+
+
+
+theme:
+  name: material
+  # name: material <- aus dem Video
+  # name: readthedocs <- NEIN. Lizenz kostet Geld
+  # name: windmill <- NEIN. wenig Konfigurationsmöglichkeiten
+  # ansehen sphinx https://www.sphinx-doc.org/en/master/usage/quickstart.html 
+  # https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+  
+  
+  #logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
+  favicon: assets/images/favicon.ico
+  
+  # custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
+
+  font: false                 # Keine Google-Fonts laden
+
+  #font:                     
+  #  text: Roboto             # https://fonts.google.com/
+
+  features:
+  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+  #  - navigation.tabs         # Nav oben
+  #  - navigation.tabs.sticky  # Nav oben bleibt auch beim scrollen
+  #  - navigation.sections     # blendet links alle sections mit ein
+    - navigation.footer        # gibt einen Zurück-Button im Footer
+    - navigation.tracking      # linke Nav läuft beim Scrollen automatisch mit
+    - -navigation.expand       # Nav links ausgeklappt
+    - navigation.indexes       # Keine doppelte Überschriften direkt untereinander
+  #  - navigation.top          # Pfeil nach oben wird angezeigt
+    - toc.integrate            # Ohne Navi auf der rechten Seite
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation  # Code kann einen Kommentar enthalten https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
+    - content.code.copy        # Erstellt einen Button um Code zu kopieren
+    - content.tooltips
+  language: de
+    
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Zum Dark-mode
+      primary: indigo   # Hauptfarbe: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
+      accent: red 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Zum Light-mode    
+      primary: indigo
+      accent: red
+
+#  icon:
+#    admonition:
+#      question: octicons/question-16 
+
+plugins:
+  - social
+  - search
+  - open-in-new-tab           # Alle Links in externen Tabs öffnen
+#  - ezlinks:
+#      wikilinks: true         # Erlaubt Wikilinks in [[  ]] - ist aber veraltet und wird abgeschaltet
+#  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
+#  - blog:
+#      blog_dir: .
+#      post_readtime: false
+      # base_path: blog
+      # show_recent: 5
+      # date_format: '%Y-%m-%d'
+      #tags:
+      #  - Tech
+      #  - MkDocs
+      #  - Blogging
+  #- git-revision-date-localized:
+  #    type: 'datetime'
+  #    locale: 'de'
+
+
+extra_css:     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width 
+  - stylesheets/extra.css
+
+extra_javascript:
+    - https://unpkg.com/mermaid/dist/mermaid.min.js
+    - js/custom.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.de/citations?user=-Oj8JzgAAAAJ
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Joerg_Thomaschewski
+    - icon: fontawesome/brands/linkedin
+      link: https://de.linkedin.com/in/j%C3%B6rg-thomaschewski-7074786/de
+    - icon: fontawesome/brands/xing
+      link: https://www.xing.com/profile/Joerg_Thomaschewski
+    - icon: fontawesome/solid/envelope
+      link: mailto:joerg.thomaschewski@hs-emden-leer.de 
+
+markdown_extensions:
+  - abbr
+  - attr_list  
+  - md_in_html
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - footnotes
+  - toc:
+      toc_depth: 0                # hierdurch werden keine Unterstrukturen TOC einer Seite angezeigt
+  - admonition                    # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.details              # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.superfences          # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.mark
+  - pymdownx.arithmatex:
+      generic: true 
+  - pymdownx.highlight:
+      anchor_linenums: true 
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.superfences:
+        # make exceptions to highlighting of code:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
+
+copyright: |
+  &copy; 2023-2024 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/Weitere/Impressum/">Impressum</a> --- <a href="https://thomaschewski.de/Weitere/Datenschutzerklaerung/">Datenschutzerklärung</a> 

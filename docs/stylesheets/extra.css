@@ -1,0 +1,53 @@
+/* Basis-Formatierung ohne direkten Einfluss auf die Zeilennummern */
+.md-grid {
+  max-width: 1200px; 
+}
+
+.custom-style .md-typeset .admonition-title,
+.custom-style .md-typeset .admonition,
+.custom-style .md-typeset p code,
+.custom-style .md-typeset li code,
+.custom-style .highlight,
+.custom-style .highlight .highlighttable,
+.custom-style code,
+.custom-style .highlight .linenos,
+.custom-style .highlight code,
+.custom-style .md-typeset thead th,
+.custom-style .md-typeset tbody tr td {
+  font-size: 0.8rem;
+}
+
+.custom-style .md-typeset p code,
+.custom-style .md-typeset li code {
+  font-weight: normal;
+  font-size: 0.9rem;
+}
+
+.custom-style .highlight, 
+.custom-style .highlight .highlighttable, 
+.custom-style code {
+  font-size: 0.85rem;
+  font-weight: bold;
+}
+
+.custom-style .highlight .linenos, 
+.custom-style .highlight code {
+  font-size: 0.85rem;
+  font-weight: bold;
+}
+
+
+/*
+Die nachfolgenden CSS-Regeln für .read und .unread sind auskommentiert,
+da sie für eine lokale JS-Datei relevant sind, die hier nicht betrachtet wird.
+*/
+
+.read {
+  background-color: green;
+  color: white;
+}
+
+.unread {
+  background-color: yellow;
+  color: black;
+}
