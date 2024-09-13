@@ -48,9 +48,9 @@ nav:
       - '2.5.10 Netzwerkbefehle': '2Linux/2.5.10_Netzwerkbefehle.md'
       - '2.6 Bash': '2Linux/2.6_Bash.md'
       - '2.7 Dateisysteme und Linux': '2Linux/2.7_Dateisysteme_und_Linux.md'
-      - '2.7.1 Dateisystem-Hierarchie und Struktur.md': '2Linux/2.7.3_Dateisystem-Hierarchie_und_Struktur.md'
-      - '2.7.2 Wichtige Dateisysteme': '2Linux/2.7.1_Wichtige_Dateisysteme.md'
-      - '2.7.3 Dateisystemoperationen': '2Linux/2.7.2_Dateisystemoperationen.md'
+      - '2.7.1 Dateisystem-Hierarchie und Struktur.md': '2Linux/2.7.1_Dateisystem-Hierarchie_und_Struktur.md'
+      - '2.7.2 Wichtige Dateisysteme': '2Linux/2.7.2_Wichtige_Dateisysteme.md'
+      - '2.7.3 Dateisystemoperationen': '2Linux/2.7.3_Dateisystemoperationen.md'
       - '2.7.4 Festplatten und ihre Lebensdauer': '2Linux/2.7.4_Festplatten_und_ihre_Lebensdauer.md'
       - '2.7.5 Festplattenverbund': '2Linux/2.7.5_Festplattenverbund.md'
       - '2.8 Selbsttest zu Linux': '2Linux/2.8_Selbsttest_zu_Linux.md'
@@ -84,9 +84,9 @@ theme:
   
   
   #logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
-  favicon: assets/images/favicon.ico
+  #favicon: favicon.ico
   
-  # custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
+  custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
 
   font: false                 # Keine Google-Fonts laden
 
