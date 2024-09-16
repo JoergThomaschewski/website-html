@@ -11,11 +11,17 @@ Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte send
 - Sourcecode kann "oben rechts" über den Copy-Button eines Sourcecode-Blocks direkt kopiert werden.
 
 ### Änderungshistorie
-Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehnen können, werden hier inhatliche Änderungen notiert. 
+Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
-- [2024-09-92] Die Kapitel 1 - 3 sind einsatzbereit 
+- [2024-09-02] Die Kapitel 1 - 2 sind einsatzbereit
+- [2024-09-15] Tippfehler Kapitel 1 - 2 bereinigt
 
-
+### Offene Punnkte
+- Kap. 2.8 Selbsttest gemeinsam erarbeiten
+- Kap. 3 Netze erstellen
+- Kap. 4 HTML überprüfen
+- Kap. 5 CSS erstellen
+- Kap. 6 JavaScript erstellen
 
 
 

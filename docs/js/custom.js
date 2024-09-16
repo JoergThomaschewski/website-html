@@ -92,20 +92,37 @@ document.addEventListener("DOMContentLoaded", function() {
     contentArea.insertBefore(createButton(), contentArea.firstChild);
     contentArea.appendChild(createButton());
 
-    // Datum der letzten Aktualisierung mit `document.lastModified` ermitteln
+    // a) Datum auf allen Seiten anzeigen (auskommentiert)
+    /*
     const lastModified = new Date(document.lastModified);
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
     const formattedDate = lastModified.toLocaleDateString('de-DE', options);
 
-    // Element erstellen und Datum anzeigen
     const lastUpdatedText = "Letzte Aktualisierung: " + formattedDate;
     const lastUpdatedElement = document.createElement('p');
     lastUpdatedElement.textContent = lastUpdatedText;
-    lastUpdatedElement.style.textAlign = 'center';  // Optional: Zentriert den Text
-    lastUpdatedElement.style.fontStyle = 'italic';  // Optional: Kursiv darstellen
-    lastUpdatedElement.className = 'last-updated';  // Klassenzuweisung für die kleinere Schriftgröße
+    lastUpdatedElement.style.textAlign = 'center';
+    lastUpdatedElement.style.fontStyle = 'italic';
+    lastUpdatedElement.className = 'last-updated';
 
-    contentArea.appendChild(lastUpdatedElement);  // Fügt das Datum am Ende des Inhaltsbereichs ein
+    contentArea.appendChild(lastUpdatedElement);
+    */
+
+    // b) Datum nur auf der Startseite anzeigen (aktiv)
+    if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
+        const lastModified = new Date(document.lastModified);
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        const formattedDate = lastModified.toLocaleDateString('de-DE', options);
+
+        const lastUpdatedText = "Letzte Aktualisierung: " + formattedDate;
+        const lastUpdatedElement = document.createElement('p');
+        lastUpdatedElement.textContent = lastUpdatedText;
+        lastUpdatedElement.style.textAlign = 'center';
+        lastUpdatedElement.style.fontStyle = 'italic';
+        lastUpdatedElement.className = 'last-updated';
+
+        contentArea.appendChild(lastUpdatedElement);
+    }
 
     updateButtons();
 });
