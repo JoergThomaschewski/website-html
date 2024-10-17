@@ -13,8 +13,9 @@ Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte send
 ### Änderungshistorie
 Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
-- [2024-09-02] Die Kapitel 1 - 2 sind einsatzbereit
-- [2024-09-15] Tippfehler Kapitel 1 - 2 bereinigt
+- [2024-09-02] Die Kapitel 1 - 2 sind einsatzbereit.
+- [2024-09-15] Tippfehler Kapitel 1 - 2 bereinigt.
+- [2024-10-17] Kapitel 2.5.4 - 2.5.8 leicht überarbeitet und Abbildungen eingebaut.
 
 ### Offene Punnkte
 - Kap. 2.8 Selbsttest gemeinsam erarbeiten
