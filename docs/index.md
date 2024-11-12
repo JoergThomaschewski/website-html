@@ -18,6 +18,7 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-10-17] Kapitel 2.5.4 - 2.5.8 leicht überarbeitet und Abbildungen eingebaut.
 - [2024-10-24] Tippfehler bereinigt.
 - [2024-11-07] Kap. 2.7.5 um Tabellen ergänzt.
+- [2024-11-12] Kap. 3 erstellt
 
 ### Offene Punnkte
 - Kap. 2.8 Selbsttest gemeinsam erarbeiten

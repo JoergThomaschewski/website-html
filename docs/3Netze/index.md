@@ -1,68 +1,22 @@
 # 3. Mediennetzwerke
 
+Gliederung
 
-3.1 Einführung in Netzwerke
+[3.1 Die Geschichte der Mediennetzwerke](3.1_Die Geschichte_der_Mediennetzwerke.md)<br>
+[3.2 Beispiele warum Netzwerkwissen wichtig ist](3.2_Beispiele_warum_Netzwerkwissen_wichtig_ist.md)<br>
+[3.3 Generelle Netzwerktopologien und Netzwerktypen](3.3_Generelle_Netzwerktopologien_und_Netzwerktypen.md)<br>
+[3.4 ISO/OSI Schichtenmodell](3.4_ISO-OSI_Schichtenmodell.md)<br>
+[3.5 Netzwerkprotokolle](3.5_Netzwerkprotokolle.md)<br>
+[3.6 MAC und IP-Adressen](3.6_MAC_IP_Adressen.md)<br>
+[3.7 Grundlegende Linux-Netzwerkbefehle](3.7_Grundlegende_Linux-Netzwerkbefehle.md)<br>
+[3.8 Netzwerkhardware](3.8_Netzwerkhardware.md)<br>
+[3.9 Netzwerksicherheit](3.9_Netzwerksicherheit.md)<br>
+[3.10 Netzwerkmanagement](3.10_Netzwerkmanagement.md)
 
-    Definition und Zweck von Netzwerken
-    Historische Entwicklung und Bedeutung in der modernen IT-Infrastruktur
+Dieses Kapitel bietet eine Einführung in das Thema **Netzwerke**. Netzwerke ermöglichen den Austausch von Informationen zwischen Geräten und Benutzern weltweit. 
 
-3.2 Netzwerktopologien und Netzwerktypen
+In diesem Kapitel lernen wir die Entwicklung der Mediennetzwerke kennen, verstehen die grundlegenden Netzwerkkonzepte und -protokolle und erhalten einen Überblick über die verschiedenen Arten von Netzwerkhardware und -typen. 
 
-        Stern-, Ring-, Bus-, Mesh- und Hybridtopologien
-        LAN, MAN, WAN, WLAN, PAN
+Wir befassen uns mit wichtigen Konzepten wie dem **ISO/OSI-Schichtenmodell**, das uns hilft, die Struktur und Funktion von Netzwerken besser zu verstehen, und viele Themen mehr.
 
-3.3 ISO/OSI-Schichtenmodell
 
-3.4 Netzwerkprotokolle
-        TCP/IP, UDP, ICMP, ARP
-
-3.5 IP-Adressierung und Subnetting
-	MAC-Adressen 
-	IPv4-Adressen
-        Aufbau und Klassen von IP-Adressen
-    Subnetting
-        Subnetzmasken, CIDR-Notation, Subnetzberechnungen
-    Nicht geroutete Adressräume (Private IP-Adressen)
-        RFC 1918 Adressbereiche, NAT (Network Address Translation)
-    IPv6-Adressen
-        Aufbau und Vorteile von IPv6, Adressierung und Subnetting in IPv6
-
-3.6 Netzwerkhardware
-
-   Hubs
-        Funktionsweise, Vor- und Nachteile
-    Switches
-        Unterschied zwischen unmanaged und managed Switches, VLANs
-    Router
-        Routingtabellen, statisches vs. dynamisches Routing, NAT und PAT
-    Access Points und Wireless Controller
-        WLAN-Standards, Sicherheitsaspekte
-    Firewalls
-        Arten von Firewalls, Funktionsweise, Konfiguration
-
-3.7 Netzwerksicherheit
-
-    Bedrohungen und Schwachstellen
-        Viren, Würmer, Trojaner, DDoS-Angriffe
-    Sicherheitsprotokolle
-        SSL/TLS, IPsec, WPA/WPA2
-    Sicherheitsmaßnahmen
-        Firewalls, VPNs, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS)
-
-3.8 Netzwerkmanagement
-
-   Netzwerküberwachung
-        Monitoring-Tools, SNMP, NetFlow
-    Fehlermanagement
-        Diagnosetools, Protokollanalyse
-    Performance-Management
-        Quality of Service (QoS), Bandbreitenmanagement
-
-3.9 Praktische Netzwerkbeispiele und Übungen
-
-    Aufbau eines kleinen Netzwerks
-        Schritt-für-Schritt-Anleitung, benötigte Hardware und Software
-   Netzwerksimulationen und -tests
-        Verwendung von Simulationssoftware wie Cisco Packet Tracer oder GNS3
-   Sicherheitskonfiguration
-        Einrichtung von Firewalls, VPNs und anderen Sicherheitsmechanismen
