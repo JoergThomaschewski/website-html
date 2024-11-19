@@ -19,11 +19,10 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-10-24] Tippfehler bereinigt.
 - [2024-11-07] Kap. 2.7.5 um Tabellen ergänzt.
 - [2024-11-12] Kap. 3 erstellt
+- [2024-11-14] Kap. 4 erstellt
 
 ### Offene Punnkte
 - Kap. 2.8 Selbsttest gemeinsam erarbeiten
-- Kap. 3 Netze erstellen
-- Kap. 4 HTML überprüfen
 - Kap. 5 CSS erstellen
 - Kap. 6 JavaScript erstellen
 

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>Beispiele zu flex-grow</title>
+  <style>
+    p {
+      text-align: center;
+      margin: 14px 0 4px 0;
+    }
+
+    .flex-container {
+      margin: auto;
+      margin-top: 0;
+      width: 400px;
+      height: 50px;
+      border: 1px solid gray;
+      background-color: lightgray;
+
+      display: flex;
+    }
+
+    /* Innere Element zur besseren Darstellung stylen */
+    .flex-container>div {
+      border: 1px solid darkblue;
+      background-color: lightblue;
+      text-align: center;
+      width: 100px;
+    }
+
+    .flex-container .fb-0 {
+      flex-basis: 0;
+    }
+
+    .flex-container .fg-1 {
+      flex-grow: 1;
+    }
+
+    .flex-container .fg-2 {
+      flex-grow: 2;
+    }
+
+    .flex-container .fg-4 {
+      flex-grow: 4;
+    }
+
+  </style>
+</head>
+
+<body>
+  <p> 1) Ohne flex-grow </p>
+  <div class="flex-container">
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+  <p> 2) Mit flex-grow für das zweite Element </p>
+  <div class="flex-container">
+    <div></div>
+    <div class="fg-1">flex-grow: 1</div>
+    <div></div>
+  </div>
+  <p> 3) Mit flex-grow </p>
+  <div class="flex-container">
+    <div class="fg-2">flex-grow: 2</div>
+    <div class="fg-1">flex-grow: 1</div>
+    <div class="fg-4">flex-grow: 4</div>
+  </div>
+  <p> 4) Mit flex-grow und flex-basis: 0 </p>
+  <div class="flex-container fb-0">
+    <div class="fg-2 fb-0">flex-grow: 2</div>
+    <div class="fg-1 fb-0">flex-grow: 1</div>
+    <div class="fg-4 fb-0">flex-grow: 4</div>
+  </div>
+
+
+
+</body></html>

@@ -1,0 +1,22 @@
+a:link {
+	color: black;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-decoration: none;
+}
+a:visited {
+	color: purple;
+	font-weight: lighter;
+	font-variant: small-caps;
+	text-decoration: none;
+}
+a:hover {
+	color: green;
+	border-bottom: 3px double #01d823;
+}
+a:active {
+	color: blue;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-decoration: line-through;
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>Beispiele zu justify-content</title>
+  <style>
+
+    p {
+      text-align: center;
+      margin: 14px 0 4px 0;
+    }
+
+    .flex-container {
+      margin: auto;
+      margin-top: 0;
+      width: 400px;
+      height: 30px;
+      border: 1px solid gray;
+      background-color: lightgray;
+
+      display: flex;
+    }
+
+    /* Innere Element zur besseren Darstellung stylen */
+    .flex-container>div {
+      border: 1px solid darkblue;
+      background-color: lightblue;
+      text-align: center;
+      min-width: 50px;
+    }
+
+    .jc-flex-end {
+      justify-content: flex-end;
+    }
+
+    .jc-center {
+      justify-content: center;
+    }
+
+    .jc-space-between {
+      justify-content: space-between;
+    }
+
+    .jc-space-around {
+      justify-content: space-around;
+    }
+
+    .jc-space-evenly {
+      justify-content: space-evenly;
+    }
+
+  </style>
+</head>
+
+<body>
+  <p>justify-content: flex-start</p>
+  <div class="flex-container">
+    <div class="a">A</div>
+    <div class="b">B</div>
+    <div class="c">C</div>
+  </div>
+  <p>justify-content: flex-end</p>
+  <div class="flex-container jc-flex-end">
+    <div class="a">A</div>
+    <div class="b">B</div>
+    <div class="c">C</div>
+  </div>
+  <p>justify-content: flex-center</p>
+  <div class="flex-container jc-center">
+    <div class="a">A</div>
+    <div class="b">B</div>
+    <div class="c">C</div>
+  </div>
+  <p>justify-content: space-between</p>
+  <div class="flex-container jc-space-between">
+    <div class="a">A</div>
+    <div class="b">B</div>
+    <div class="c">C</div>
+  </div>
+  <p>justify-content: space-around</p>
+  <div class="flex-container jc-space-around">
+    <div class="a">A</div>
+    <div class="b">B</div>
+    <div class="c">C</div>
+  </div>
+  <p>justify-content: space-evenly</p>
+  <div class="flex-container jc-space-evenly">
+    <div class="a">A</div>
+    <div class="b">B</div>
+    <div class="c">C</div>
+  </div>
+
+
+
+</body></html>

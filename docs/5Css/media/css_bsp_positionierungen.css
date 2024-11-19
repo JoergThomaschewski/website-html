@@ -1,0 +1,31 @@
+body {
+	font-family: 'Georgia', serif;
+	font-size: 10pt;
+	height: 1500px;
+}
+div {
+	border: 1px solid #000000;
+	width: 200px; /*Breite*/
+	height: 150px; /*Höhe*/
+	text-align: center;
+}
+.d_yellow {
+	position: static;
+	background-color: #feff9f;
+}
+.d_blue {
+	position: relative;
+	top: 5px;
+	left: 235px;
+	background-color: #c5cdfe;
+}
+.d_red {
+	position: absolute;
+	top: 200px;
+	background-color: #ffc7d3;
+}
+.d_green {
+	position: fixed;
+	margin: 250px; /* Außenabstand */
+	background-color: #d3ffdb;
+}
