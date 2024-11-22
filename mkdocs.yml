@@ -107,7 +107,8 @@ nav:
       - '4.5 Zusammenfassung Kapitel HTML': '4Html/4.5_Zusammenfassung_Kapitel_HTML.md'
       - '4.5.1 Selbsttest zum gesamten Kapitel HTML': '4Html/4.5.1_Selbsttest_zum_gesamten_Kapitel_HTML.md'
       - '4.5.2 Aufgabe zum Kapitel HTML': '4Html/4.5.2_Aufgabe_zum_Kapitel_HTML.md'
-
+  - '5. DOM': 
+      - 'Übersicht': '5Dom/index.md'
 
 
 theme:
