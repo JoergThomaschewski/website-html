@@ -111,9 +111,10 @@ nav:
       - 'Übersicht': '5Dom/index.md'
       - '5.1 Einführung in das Document Object Model': '5Dom/5.1_Einfuehrung_in_das_Document_Object_Model.md'
       - '5.2 Grundlagen von DOM': '5Dom/5.2_Grundlagen_von_DOM.md'
-      - '5.3 5.3 Navigieren im DOM-Baum': '5Dom/5.3_Navigieren_im_DOM_Baum.md'
+      - '5.3 Navigieren im DOM-Baum': '5Dom/5.3_Navigieren_im_DOM_Baum.md'
       - '5.4 Anwendungsbeispiele': '5Dom/5.4_Anwendungsbeispiele.md'
-      - '5.5 5.5 Selbsttest zum gesamten Kapitel DOM': '5Dom/5.5_Selbsttest_zum_gesamten_Kapitel_DOM.md'
+      - '5.5 Selbsttest zum gesamten Kapitel DOM': '5Dom/5.5_Selbsttest_und_Zusammenfassung_zum_gesamten_Kapitel_DOM.md'
+  - '6. CSS':     
       - 'Übersicht': '6Css/index.md'
       - '6.1 Einführung in Cascading Style Sheets (CSS)': '6Css/6.1_Einfuehrung_in_Cascading_Style_Sheets.md'
       - '6.1.1 Was genau ist CSS?': '6Css/6.1.1_Was_genau_ist_CSS.md'  
