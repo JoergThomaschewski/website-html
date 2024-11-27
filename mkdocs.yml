@@ -116,10 +116,7 @@ nav:
       - '5.5 Selbsttest zum gesamten Kapitel DOM': '5Dom/5.5_Selbsttest_und_Zusammenfassung_zum_gesamten_Kapitel_DOM.md'
   - '6. CSS':     
       - 'Übersicht': '6Css/index.md'
-      - '6.1 Einführung in Cascading Style Sheets (CSS)': '6Css/6.1_Einfuehrung_in_Cascading_Style_Sheets.md'
-      - '6.1.1 Was genau ist CSS?': '6Css/6.1.1_Was_genau_ist_CSS.md'  
-      - '6.1.2 Welchen Zweck haben Style Sheets?': '6Css/6.1.2_Welchen_Zweck_haben_Style_Sheets.md'
-      - '6.1.3 CSS und Cross-Browser-Kompatibilität': '6Css/6.1.3_CSS_und_Cross_Browser_Kompatibilitaet.md'      
+      - '6.1 Einführung in Cascading Style Sheets (CSS)': '6Css/6.1_Einfuehrung_in_Cascading_Style_Sheets.md' 
       - '6.2 Grundlagen der CSS-Formatierung': '6Css/6.2_Grundlagen_der_CSS_Formatierung.md'
       - '6.2.1 CSS-Syntax und Befehle definieren': '6Css/6.2.1_CSS_Syntax_Befehle_definieren.md'
       - '6.2.2 CSS in HTML einbinden – Möglichkeiten': '6Css/6.2.2_CSS_in_HTML_einbinden_Moeglichkeiten.md'
@@ -161,7 +158,7 @@ nav:
       - '6.5.1 CSS Reset': '6Css/6.5.1_CSS_Reset.md'
       - '6.5.2 Strukturierter Aufbau einer CSS-Datei': '6Css/6.5.2_Strukturierter_Aufbau_einer_CSS_Datei.md'
       - '6.5.3 SCSS, Sass und Less': '6Css/6.5.3_SCSS_Sass_Less.md'
-      - '6.6 Zusammenfassung, Selbsttest und Aufgabe zum Kapitel CSS': '6Css/6.6 Zusammenfassung_Selbsttest_und_Aufgabe_zum_Kapitel_CSS.md'
+      - 'Selbsttest, Aufgabe und Zusammenfassung zum Kapitel CSS': '6Css/6.6_Selbsttest_Aufgabe_und_Zusammenfassung_zum_Kapitel_CSS.md'
   - '7. JavaScript': 
       - 'Übersicht': '7JavaScript/index.md'
 

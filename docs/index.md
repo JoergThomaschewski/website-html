@@ -20,11 +20,11 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-11-07] Kap. 2.7.5 um Tabellen ergänzt.
 - [2024-11-12] Kap. 3 erstellt
 - [2024-11-14] Kap. 4 erstellt
+- [2024-11-14] Kap. 5 DOM erstellt, alles konvertiert, aber fertig kontrolliert bis 6.4.2
 
 ### Offene Punnkte
 - Kap. 2.8 Selbsttest gemeinsam erarbeiten
-- Kap. 5 CSS erstellen
-- Kap. 6 JavaScript erstellen
+
 
 
 
