@@ -51,3 +51,27 @@ Zusätzlich gibt es eine Vielzahl an experimentellen Features, die über [CSS Fe
 
 !!! info
     HTML ist mit seinen Attributen und Möglichkeiten schon etwas komplex. Aber CSS ist mit all seinen Regelwerken sehr komplex! Wer CSS gut beherrscht und auf dem aktuellen Stand ist, ist im Berufsleben sehr gefragt. Oder anders: Wenn wir einen wirklich guten CSS-Entwickler für unser Unternehmen suchen, dann sollten wir diesem Entwickler neben einem guten Gehalt auch ein sehr gutes Betriebsklima bieten.
+
+---
+
+## Live-Editor für CSS und HTML
+
+Hier kannst du CSS- und HTML-Code eingeben, um direkt im Browser eine Vorschau zu sehen. Verwende die Textfelder unten, um deinen Code anzupassen. Klicke dann auf **Vorschau aktualisieren**, um das Ergebnis zu sehen.
+
+
+<div id="live-editor">
+  <!-- Eingabefeld für CSS -->
+  <h3>CSS bearbeiten</h3>
+  <textarea id="css-input" placeholder="Schreibe deinen CSS-Code hier..."></textarea>
+  
+  <!-- Eingabefeld für HTML -->
+  <h3>HTML bearbeiten</h3>
+  <textarea id="html-input" placeholder="Schreibe deinen HTML-Code hier..."></textarea>
+  
+  <!-- Button zur Aktualisierung -->
+  <button id="update-preview">Vorschau aktualisieren</button>
+  
+  <!-- Vorschau Iframe -->
+  <h3>Vorschau</h3>
+  <iframe id="preview-frame"></iframe>
+</div>

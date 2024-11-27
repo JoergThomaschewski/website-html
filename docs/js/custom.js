@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     // Teil 1: Navigation an der Überschrift
     const h1 = document.querySelector('h1');
     if (h1) {
@@ -125,4 +125,27 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     updateButtons();
+
+    // Teil 3: Live-Editor für HTML und CSS
+    // -----------------------------------
+    const cssInput = document.querySelector("#css-input");
+    const htmlInput = document.querySelector("#html-input");
+    const previewFrame = document.querySelector("#preview-frame");
+    const updateButton = document.querySelector("#update-preview");
+
+    if (!cssInput || !htmlInput || !previewFrame || !updateButton) {
+        console.error("Live-Editor Elemente nicht gefunden.");
+        return;
+    }
+
+    const updatePreview = () => {
+        const htmlContent = htmlInput.value || "";
+        const cssContent = `<style>${cssInput.value || ""}</style>`;
+        const fullContent = cssContent + htmlContent;
+        previewFrame.srcdoc = fullContent;
+    };
+
+    updateButton.addEventListener("click", updatePreview);
+
+    previewFrame.srcdoc = `<style>body { font-family: Arial, sans-serif; }</style><p>Vorschau hier sichtbar.</p>`;
 });
