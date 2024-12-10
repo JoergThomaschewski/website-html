@@ -4,6 +4,8 @@
 
 Der Ursprung des Internets, die **Frühphase**, liegt in den 1960er Jahren. Sie war eine Initiative des amerikanischen Verteidigungsministeriums: Da 1957 die Sowjetunion ihren ersten Satelliten namens Sputnik ins All schickte, hatte das Ministerium Sorge vor der Zerstörung seiner Nachrichteninfrastruktur. Das Verteidigungsministerium hatte daraufhin die neue Idee eines Netzwerks, das auch bei dem Ausfall eines Knotens weiter funktioniert. Daraufhin planten sie die Vernetzung von Rechnern, die an verschiedenen Orten standen. So initiierte das Ministerium Forschungen und die Advanced Research Project Agency (kurz: **[ARPA](https://www.darpa.mil/about-us/timeline/arpanet)**) führte anschließend erste Versuche mit paketvermittelten Netzen durch.
 
+---
+
 ## 1965-1988: Ausbau des Netzwerks
 
 Das **[ARPAnet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)** wurde ab 1965 auch für nicht-militärische Zwecke verwendet. 1965 begann es mit nur vier Rechnern. Die Versuche wurden aber ausgeweitet, sodass 1969 das ARPAnet der Öffentlichkeit vorgestellt wurde. 1972 wurde das Netzwerkprotokoll FTP (File Transfer Protocol) entwickelt und als **[RFC 354](https://tools.ietf.org/html/rfc354)** veröffentlicht. E-Mails wurden ebenfalls in diesem Jahr durch Ray Tomlinson eingeführt. Tomlinson legte die Grundlagen (z.B. die Festlegung des @-Zeichens). Anfang der 80er, zu Beginn der wilden Phase des Internets, teilte man das Netz auf in MIL-net, für militärische Zwecke, und ARPAnet, für zivile Bereiche. Das neue Netzwerk weckte das Interesse von wissenschaftlichen Kreisen und 1986 entstand so das NSFnet (National Science Foundation net), das Universitäten und Forschungszentren vorbehalten war.
@@ -13,6 +15,8 @@ Nutzer hatten mittlerweile vielfältige Anforderungen an das neue Netz, was eine
 !!! info "Meine erste E-Mail Adresse"
     Als Physikstudent hatte ich ab Anfang 1987 meine erste E-Mail-Adresse im Forschungsnetzwerk EARN (European Academic and Research Network).
 
+---
+
 ## 1989-1997: Frühphase des World Wide Web
 
 Das wichtigste Jahr in der Geschichte des Internets ist 1989. In diesem Jahr gab Tim Berners-Lee vom Institut CERN erste Entwürfe von **HTML** heraus. Ende 1990 entwickelte Berners-Lee außerdem **das Protokoll HTTP**, welches ein Navigieren über Links ermöglichte. Das Internet hatte seinen Anfang gefunden.
@@ -21,17 +25,25 @@ Da lokale Netzwerke nun mit demselben Protokoll wie das Internet arbeiten konnte
 
 Zunächst verbreitete sich das Internet über Universitäten, bis schließlich auch Unternehmen Interesse zeigten und sich ebenfalls in das Internet eingliederten. Die kommerzielle Phase begann. Das **[World Wide Web Consortium (W3C)](https://www.w3.org/)** wurde im Jahr **1994** gegründet. Daraufhin wurde mit HTML 4 im Jahr 1997 ein (relativ) stabiler Stand erreicht.
 
+---
+
 ## 1998-2003: Kommerzialisierungsphase des World Wide Web
 
 Die erste Hochphase erlebte das WWW in den Jahren 1997 bis 2000. In dieser Zeit entstanden sehr viele Internetfirmen, die durch die traditionelle Wirtschaft und durch Venture Capital stark gefördert wurden. Eine Vielzahl von Ideen, sowohl praktikable als auch weniger erfolgversprechende, wurden mit hohen Investitionen ausprobiert. Der Börsencrash in den Jahren 2000/2001 führte zu Insolvenzen vieler dieser Internetfirmen und mündete in einer Marktbereinigung.
+
+---
 
 ## 2004-2009: Etablierung des Web 2.0
 
 Der Übergang ins Web 2.0 markierte den Beginn einer neuen Ära, in der das Internet zunehmend interaktiv wurde. Nutzer begannen, Inhalte nicht nur zu konsumieren, sondern auch aktiv zu gestalten. Plattformen wie Wikipedia und Facebook gewannen stark an Beliebtheit und veränderten die Art und Weise, wie wir Wissen teilen und kommunizieren. Dieser Zeitraum markierte den Übergang von einem statischen "Web 1.0" zu einem dynamischen und sozial vernetzten "Web 2.0".
 
+---
+
 ## 2010-2015: Aufstieg der mobilen Internetnutzung
 
 Mit der zunehmenden Verbreitung von Smartphones und Tablets begann eine Ära, in der das Internet zunehmend mobil genutzt wurde. Apps und mobile Websites wurden zum neuen Standard für Online-Interaktionen. Diese Entwicklung eröffnete neue Möglichkeiten für soziale Medien, E-Commerce und digitale Dienstleistungen, stellte aber auch neue Herausforderungen in Bezug auf Datenschutz und Sicherheit.
+
+---
 
 ## 2016-heute: Digitalisierung, Künstliche Intelligenz und Internet of Things
 
