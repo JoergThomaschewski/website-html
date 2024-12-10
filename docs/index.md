@@ -20,7 +20,9 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 - [2024-11-07] Kap. 2.7.5 um Tabellen ergänzt.
 - [2024-11-12] Kap. 3 erstellt
 - [2024-11-14] Kap. 4 erstellt
-- [2024-11-14] Kap. 5 DOM erstellt, alles konvertiert, aber fertig kontrolliert bis 6.4.2
+- [2024-11-23] Kap. 5 DOM erstellt, alles konvertiert, aber fertig kontrolliert bis 6.4.2
+- [2024-12-05] Kap. 6 fertig überarbeitet
+- [2024-12-08] Bis einschließlich Kap. 7.4 fertig überarbeitet
 
 ### Offene Punnkte
 - Kap. 2.8 Selbsttest gemeinsam erarbeiten

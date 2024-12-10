@@ -155,7 +155,7 @@ nav:
       - '6.4.12 CSS Multiline Flexbox': '6Css/6.4.12_CSS_Multiline_Flexbox.md'
       - '6.4.13 Selbsttest zu Positionieren von CSS-Elementen': '6Css/6.4.13_Selbsttest_zu_Positionieren_von_CSS_Elementen.md'
       - '6.5 CSS-Tipps': '6Css/6.5_CSS_Tipps.md'
-      - '6.5.1 CSS Reset': '6Css/6.5.1_CSS_Reset.md'
+      - '6.5.1 Normalize.css': '6Css/6.5.1_Normalize.css.md'
       - '6.5.2 Strukturierter Aufbau einer CSS-Datei': '6Css/6.5.2_Strukturierter_Aufbau_einer_CSS_Datei.md'
       - '6.5.3 SCSS, Sass und Less': '6Css/6.5.3_SCSS_Sass_Less.md'
       - 'Selbsttest, Aufgabe und Zusammenfassung zum Kapitel CSS': '6Css/6.6_Selbsttest_Aufgabe_und_Zusammenfassung_zum_Kapitel_CSS.md'

@@ -56,7 +56,7 @@ Zusätzlich gibt es eine Vielzahl an experimentellen Features, die über [CSS Fe
 
 ## Live-Editor für CSS und HTML
 
-Hier kannst du CSS- und HTML-Code eingeben, um direkt im Browser eine Vorschau zu sehen. Verwende die Textfelder unten, um deinen Code anzupassen. Klicke dann auf **Vorschau aktualisieren**, um das Ergebnis zu sehen.
+Hier können Sie CSS- und HTML-Code eingeben, um direkt im Browser eine Vorschau zu sehen. Klicken Sie dann auf **Vorschau aktualisieren**, um das Ergebnis zu sehen.
 
 
 <div id="live-editor">
