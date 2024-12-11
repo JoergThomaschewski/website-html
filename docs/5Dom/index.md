@@ -6,7 +6,7 @@ Gliederung
 [5.2 Grundlagen von DOM](5.2_Grundlagen_von_DOM.md)<br>
 [5.3 Navigieren im DOM-Baum](5.3_Navigieren_im_DOM_Baum.md)<br>
 [5.4 Anwendungsbeispiele](5.4_Anwendungsbeispiele.md)<br>
-[5.5 Selbsttest und Zusammenfasssung zum gesamten Kapitel DOM](5.5_Selbsttest_und_Zusammenfassung_zum_gesamten_Kapitel_DOM.md)<br>
+[5.5 Selbsttest und Zusammenfassung zum gesamten Kapitel DOM](5.5_Selbsttest_und_Zusammenfassung_zum_gesamten_Kapitel_DOM.md)<br>
 
 ## Was ist das DOM?
 

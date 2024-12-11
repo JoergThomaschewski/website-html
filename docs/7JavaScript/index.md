@@ -8,5 +8,5 @@
 [7.6 Zusammenfassung und Selbsttest zum gesamten Kapitel JavaScript](7.6_Zusammenfassung_Kapitel_JavaScript.md)<br>
 
 
-**JavaScript** (im Folgenden auch mit **JS** abgekürzt) ist eine clientseitige Programmiersprache, die durch den Browser ausgeführt wird. Mit JavaScript können wir Webseiten interaktiv gestalten und die Möglichkeiten von HTML erheblich erweitern. 
+**JavaScript** (im Folgenden auch mit **JS** abgekürzt) ist eine client-seitige Programmiersprache, die durch den Browser ausgeführt wird. Mit JavaScript können wir Webseiten interaktiv gestalten und die Möglichkeiten von HTML erheblich erweitern. 
 

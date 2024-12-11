@@ -39,5 +39,5 @@ Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte send
 
 ---
 
-### Offene Punnkte
+### Offene Punkte
 - Kap. 2.8 Selbsttest gemeinsam erarbeiten
