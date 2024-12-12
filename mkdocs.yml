@@ -181,12 +181,12 @@ nav:
       - '7.4.6 Callbacks': '7JavaScript/7.4.6_Callbacks.md'
       - '7.4.7 Selbsttest OOP': '7JavaScript/7.4.7_Selbsttest_OOP.md'
       - '7.5 JavaScript in der Praxis': '7JavaScript/7.5_JavaScript_in_der_Praxis.md'
-      - '7.5.1 Einfachere Beispiele mit JavaScript': '7JavaScript/7.5.1_Einfache_Beispiele_mit_JavaScript.md'
-      - '7.5.2 Formulare I: Vollständigkeit prüfen': '7JavaScript/7.5.2_Formulare_I_Vollstaendigkeit_pruefen.md'
-      - '7.5.3 Formulare II: Besondere Überprüfungen': '7JavaScript/7.5.3_Formulare_II_Besondere_Ueberpruefungen.md'
-      - '7.5.4 Grafiken einsetzen': '7JavaScript/7.5.4_Grafiken_einsetzen.md'
+      - '7.5.1 Einfache Beispiele mit window-Objekt': '7JavaScript/7.5.1_Einfache_Beispiele_mit_window-Objekt.md'
+      - '7.5.2 Weitere einfache Beispiele': '7JavaScript/7.5.2_Weitere_einfache_Beispiele.md'
+      - '7.5.3 Formulare I: Vollständigkeit prüfen': '7JavaScript/7.5.3_Formulare_I_Vollstaendigkeit_pruefen.md'
+      - '7.5.4 Formulare II: Besondere Überprüfungen': '7JavaScript/7.5.4_Formulare_II_Besondere_Ueberpruefungen.md'
+      - '7.5.5 Grafiken einsetzen': '7JavaScript/7.5.5_Grafiken_einsetzen.md'
       - '7.6 Zusammenfassung Kapitel JavaScript': '7JavaScript/7.6_Zusammenfassung_Kapitel_JavaScript.md'
-
 theme:
   name: material
   # name: material <- aus dem Video

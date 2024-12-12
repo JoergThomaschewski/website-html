@@ -34,10 +34,11 @@ Zu allen Themen gibt es wunderbares, umfangreiches (Online-)Material, doch diese
 Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
 - [2024-12-10] Erste vollständige Version
+- [2024-12-12] Kleinere Korrekturen in Kap. 4, 6 - 7
 
 Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte senden Sie diese direkt an joerg.thomaschewski@hs-emden-leer.de. Vielen Dank!
 
 ---
 
 ### Offene Punkte
-- Kap. 2.8 Selbsttest gemeinsam erarbeiten
+- Kap. 2.8 Selbsttest noch erstellen
