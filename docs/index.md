@@ -1,4 +1,4 @@
-# Internet-Grundlagen
+# Internet und Mediennetzwerke
 ![Jörg Thomaschewski](./assets/images/JT-Web.jpg){align=right width="28%"}
 
 Willkommen zu Internet- und Mediennetzwerke (ehemals **Internet-Grundlagen**)!
@@ -33,7 +33,8 @@ Zu allen Themen gibt es wunderbares, umfangreiches (Online-)Material, doch diese
 ### Änderungshistorie
 Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
-- [2024-1206-11] Version für das Wintersemester 2025/2026
+- [2026-12-06] Version für das Wintersemester 2025/2026
+- [2025-09-25] Überschrift geändert und Kap. 3 Numerierung fehlte (nun vorhanden)
 
 
 Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte senden Sie diese direkt an joerg.thomaschewski@hs-emden-leer.de. Vielen Dank!
