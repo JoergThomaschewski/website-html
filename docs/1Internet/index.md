@@ -1,4 +1,4 @@
-# 1.1 Die Geschichte des Internets
+# 1. Die Geschichte des Internets
 
 ## 1957-1964: Frühphase des Internets
 

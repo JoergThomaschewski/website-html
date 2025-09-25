@@ -56,16 +56,16 @@ nav:
       - '2.8 Selbsttest zu Linux': '2Linux/2.8_Selbsttest_zu_Linux.md'
   - '3. Mediennetzwerke': 
       - 'Übersicht': '3Netze/index.md'
-      - 'Die Geschichte der Mediennetzwerke': '3Netze/3.1_Die Geschichte_der_Mediennetzwerke.md'
-      - 'Beispiele warum Netzwerkwissen wichtig ist': '3Netze/3.2_Beispiele_warum_Netzwerkwissen_wichtig_ist.md'
-      - 'Generelle Netzwerktopologien und Netzwerktypen': '3Netze/3.3_Generelle_Netzwerktopologien_und_Netzwerktypen.md'
-      - 'ISO/OSI Schichtenmodell': '3Netze/3.4_ISO-OSI_Schichtenmodell.md'
-      - 'Netzwerkprotokolle': '3Netze/3.5_Netzwerkprotokolle.md'
-      - 'MAC und IP-Adressen': '3Netze/3.6_MAC_IP_Adressen.md'
-      - 'Grundlegende Linux-Netzwerkbefehle': '3Netze/3.7_Grundlegende_Linux-Netzwerkbefehle.md'
-      - 'Netzwerkhardware': '3Netze/3.8_Netzwerkhardware.md'
-      - 'Netzwerksicherheit': '3Netze/3.9_Netzwerksicherheit.md'
-      - 'Netzwerkmanagement': '3Netze/3.10_Netzwerkmanagement.md'
+      - '3.1 Die Geschichte der Mediennetzwerke': '3Netze/3.1_Die Geschichte_der_Mediennetzwerke.md'
+      - '3.2 Beispiele warum Netzwerkwissen wichtig ist': '3Netze/3.2_Beispiele_warum_Netzwerkwissen_wichtig_ist.md'
+      - '3.3 Generelle Netzwerktopologien und Netzwerktypen': '3Netze/3.3_Generelle_Netzwerktopologien_und_Netzwerktypen.md'
+      - '3.4 ISO/OSI Schichtenmodell': '3Netze/3.4_ISO-OSI_Schichtenmodell.md'
+      - '3.5Netzwerkprotokolle': '3Netze/3.5_Netzwerkprotokolle.md'
+      - '3.6 MAC und IP-Adressen': '3Netze/3.6_MAC_IP_Adressen.md'
+      - '3.7Grundlegende Linux-Netzwerkbefehle': '3Netze/3.7_Grundlegende_Linux-Netzwerkbefehle.md'
+      - '3.8 Netzwerkhardware': '3Netze/3.8_Netzwerkhardware.md'
+      - '3.9 Netzwerksicherheit': '3Netze/3.9_Netzwerksicherheit.md'
+      - '3.10 Netzwerkmanagement': '3Netze/3.10_Netzwerkmanagement.md'
   - '4. HTML': 
       - 'Übersicht': '4Html/index.md'
       - '4.1 HTML-Grundlagen und Metadaten': '4Html/4.1_HTML_Grundlagen_und_Metadaten.md'
@@ -303,14 +303,14 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true 
   - pymdownx.emoji:
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  #    emoji_index: !!python/name:material.extensions.emoji.twemoji
   - pymdownx.superfences:
         # make exceptions to highlighting of code:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid_custom
+  #        format: !!python/name:mermaid2.fence_mermaid_custom
 
 copyright: |
   &copy; 2023-2024 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/Weitere/Impressum/">Impressum</a> --- <a href="https://thomaschewski.de/Weitere/Datenschutzerklaerung/">Datenschutzerklärung</a> 

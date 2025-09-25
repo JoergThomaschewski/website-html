@@ -1,7 +1,7 @@
 # Internet-Grundlagen
 ![Jörg Thomaschewski](./assets/images/JT-Web.jpg){align=right width="28%"}
 
-Willkommen zu den **Internet-Grundlagen**!
+Willkommen zu Internet- und Mediennetzwerke (ehemals **Internet-Grundlagen**)!
 
 Dieses Skript ist für Studierende der **Medientechnik** im 3. Semester an der **Hochschule Emden/Leer**. 
 
@@ -33,8 +33,8 @@ Zu allen Themen gibt es wunderbares, umfangreiches (Online-)Material, doch diese
 ### Änderungshistorie
 Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
-- [2024-12-10] Erste vollständige Version
-- [2024-12-12] Kleinere Korrekturen in Kap. 4, 6 - 7
+- [2024-1206-11] Version für das Wintersemester 2025/2026
+
 
 Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte senden Sie diese direkt an joerg.thomaschewski@hs-emden-leer.de. Vielen Dank!
 
