@@ -35,6 +35,8 @@ Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semes
 
 - [2026-12-06] Version für das Wintersemester 2025/2026
 - [2025-09-25] Überschrift geändert und Kap. 3 Numerierung fehlte (nun vorhanden)
+- [2025-11-21] Korrekturen in 2.5 und 2.5.2 (Beispiele für '<' und '|') sowie minimale Korrekturen in 2.7.2, 6.2.4, 6.2.10 und 6.2.11
+- [2025-12-11] Link aktualisiert ind 6.2.2, onMouseOver statt onmouseover verwendet (leichtere Lesbarkeit), Tippfehler in 7.2, kleinere Gender-Anpassungen
 
 
 Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte senden Sie diese direkt an joerg.thomaschewski@hs-emden-leer.de. Vielen Dank!

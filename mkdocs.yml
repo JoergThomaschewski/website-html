@@ -271,6 +271,7 @@ extra_css:     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-na
 extra_javascript:
     - https://unpkg.com/mermaid/dist/mermaid.min.js
     - js/custom.js
+    - js/matomo.js
 
 extra:
   social:
