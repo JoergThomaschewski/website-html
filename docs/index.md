@@ -11,15 +11,16 @@ Zu allen Themen gibt es wunderbares, umfangreiches (Online-)Material, doch diese
 
 ---
 
-
-!!! note "Weitere Materialien"
-    Ich bin Prof. Dr. Jörg Thomaschewski und hier eine Liste meiner weiteren Materialien:
+!!! tip "Weitere Materialien"
+    Diese Site wurde erstellt von  Prof. Dr. Jörg Thomaschewski und hier eine Liste meiner weiteren Sites
 
     - Meine Webseite [www.thomaschewski.de](https://thomaschewski.de)
-    - Script Programmieren 1 in Python [https://html.thomaschewski.de/](https://html.thomaschewski.de/)
-    - Script Internet-Grundlagen <= diese Material hier
-    - Script Internet-Programmierung in PHP [https://iprog-php.thomaschewski.de/](https://iprog-php.thomaschewski.de/)
-    - Materialien zu UX-Methoden [https://ux-methoden.de/](https://ux-methoden.de/)
+    - Script Programmieren 1 in Python [python1.thomaschewski.de](https://python1.thomaschewski.de/)
+    - Script Internet- und Mediennetzwerke <= wir sind hier
+    - Script Internet-Programmierung in PHP [iprog-php.thomaschewski.de/](https://iprog-php.thomaschewski.de/)
+    - Materialien zu UX-Methoden [ux-methoden.de/](https://ux-methoden.de/)
+    - Wissenschaftliche Artikel leicht erklärt [forschen-im-norden.de/](https://forschen-im-norden.de/)
+
 
 ---
 
@@ -33,10 +34,10 @@ Zu allen Themen gibt es wunderbares, umfangreiches (Online-)Material, doch diese
 ### Änderungshistorie
 Damit die Studierenden mögliche Änderungen und Ergänzungen während des Semesters nachvollziehen können, werden hier inhaltliche Änderungen notiert.
 
-- [2026-12-06] Version für das Wintersemester 2025/2026
-- [2025-09-25] Überschrift geändert und Kap. 3 Numerierung fehlte (nun vorhanden)
-- [2025-11-21] Korrekturen in 2.5 und 2.5.2 (Beispiele für '<' und '|') sowie minimale Korrekturen in 2.7.2, 6.2.4, 6.2.10 und 6.2.11
-- [2025-12-11] Link aktualisiert ind 6.2.2, onMouseOver statt onmouseover verwendet (leichtere Lesbarkeit), Tippfehler in 7.2, kleinere Gender-Anpassungen
+- [2026-03-04] Version Stand März 2026
+- [2026-09-30] Kap. 2 Linux: Tippfehler korrigiert und veraltete Aussagen aktualisiert in 2.2 (Distributionen, systemd), 2.3 (SSH unter Windows, Host-Key, SSH-Schlüssel), 2.4 (Ctrl+Z), 2.5 (Übersichtstabelle), 2.5.2 (Builtins, Operator &>, Symlink-Aufgabe), 2.5.3 (uniq, less, journalctl, Tipp zu cut), 2.5.4, 2.5.5 (Verweis auf sed, grep -H), 2.5.6 (Rechte bei Verzeichnissen), 2.5.7 (python3), 2.5.8 (pid_max), 2.5.9 (Windows, Installation von zip), 2.5.10 (netstat, net-tools, traceroute, scp-Aufgabe, neuer Abschnitt zu sftp) und 2.6 (Variablen in Anführungszeichen)
+- [2026-09-30] Kap. 2.6 Bash neu strukturiert und erweitert: Grundlagen für eigene Skripte ergänzt (Parameter, Bedingungen, Dateitests, Rechnen, Fehlersuche mit bash -x) sowie vier Beispielskripte (info.sh, zaehlen.sh, sortieren.sh, backup.sh), die im Praktikum verwendet werden. Kap. 2.5.8 um eine ausführliche Erklärung zu Vordergrund, Hintergrund und Jobs (&, Ctrl+Z, jobs, fg, bg) ergänzt
+
 
 
 Für das Melden von Tippfehlern und Anregungen bin ich immer dankbar. Bitte senden Sie diese direkt an joerg.thomaschewski@hs-emden-leer.de. Vielen Dank!
